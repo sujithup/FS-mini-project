@@ -1,8 +1,7 @@
 import numpy
 from PIL import Image
 
-
-def openImage(imagePath):
+def openImage(imagePath):       # This file is created to import funtions
     imOrig = Image.open(imagePath)
     im = numpy.array(imOrig)
 

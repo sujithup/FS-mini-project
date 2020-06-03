@@ -2,7 +2,7 @@
 Image compression using SVD
 Singular Value Decomposition (SVD) of a matrix is a factorization of that matrix into three matrices. Singular Value Decomposition (SVD) is a widely used technique to decompose a matrix into several component matrices, exposing many of the useful and interesting properties of the original matrix. Using SVD, we can determine the rank of the matrix, quantify the sensitivity of a linear system to numerical error, or obtain an optimal lower-rank approximation to the matrix.
 
-I have implemented SVD algorithm to compress the images in Python language. I have also created simple, basic GUI using Tkinterin Python.
+I have implemented SVD algorithm to compress the images in Python language. I have also created simple, basic GUI using Tkinter in Python.
 
 Requirements to run the code:
 1. Python 3.6 

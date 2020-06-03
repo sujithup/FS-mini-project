@@ -5,17 +5,18 @@ Singular Value Decomposition (SVD) of a matrix is a factorization of that matrix
 I have implemented SVD algorithm to compress the images in Python language. I have also created simple, basic GUI using Tkinter in Python.
 
 Requirements to run the code:
-1. Python 3.6 
-2. Tkinter
-3. NumPy
+1. Python 3.6. 
+2. Tkinter.
+3. NumPy.
 
 How to use the code:
-1. Clone the files into your system
-2. Open the code in any editor
-3. Import Numpy, Tkinter packages
-4. Run GUI.py
-5. Press the '+' button to open the file directory
-6. Choose the image 
-7. Verify the image and path
-8. Click compress button
-9. save the compressed file in desired location
+1. Clone the files into your system.
+2. Open the code in any editor.
+3. Import Numpy, Tkinter packages.
+4. Run GUI.py.
+5. Press the '+' button to open the file directory.
+6. Choose the image. 
+7. Verify the image and path.
+8. Click compress button.
+9. Save the compressed file in desired location.
+10. Check the console for additional information.

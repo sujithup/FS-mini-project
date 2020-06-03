@@ -11,8 +11,8 @@ Requirements to run the code:
 
 How to use the code:
 1. Clone the files into your system.
-2. Open the code in any editor.
-3. Import Numpy, Tkinter packages.
+2. Import Numpy, Tkinter packages.
+3. Open the GUI.py code in any editor.
 4. Run GUI.py.
 5. Press the '+' button to open the file directory.
 6. Choose the image. 

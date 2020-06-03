@@ -10,7 +10,7 @@ Requirements to run the code:
 3. NumPy
 
 How to use the code:
-1. Clone the file into your system
+1. Clone the files into your system
 2. Open the code in any editor
 3. Import Numpy, Tkinter packages
 4. Run GUI.py

@@ -23,3 +23,17 @@ How to use the code:
 
 Graphical User Interface(GUI):
 
+Main Screen -
+
+![](Snapshots/mainscreen.png)
+
+Choosing the image -
+
+![](Snapshots/Filedir.png)
+
+Verify the image in the GUI -
+
+![](Snapshots/verifyimg.png)
+
+Then you get the compressed image. 
+Please read the FS_report.pdf for full information.

@@ -20,3 +20,6 @@ How to use the code:
 8. Click compress button.
 9. Save the compressed file in desired location.
 10. Check the console for additional information.
+
+Graphical User Interface(GUI):
+
